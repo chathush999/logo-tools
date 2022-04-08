@@ -26,7 +26,7 @@
 # 📚 Description 📚
  
 
-- 🔑 BOT Commands : `/start`, `/logo`, `/logohq`, `/write`, `/wall`
+- 🔑 BOT Commands : `/logo`
 
 
 
